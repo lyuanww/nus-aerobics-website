@@ -26,7 +26,7 @@ export default function AdminClassDetails({ selectedClass, toggleIsEdit }) {
         </div>
         <div className="flex flex-row items-center gap-2.5">
           <MdOutlineLocationOn size={24} color={"#1F4776"} />
-          <p>UTown Gym Aerobics Studio</p>
+          <p>YIH Dance Studio 2</p>
         </div>
         <div className="flex flex-row items-center gap-2.5">
           <MdPersonOutline size={24} color={"#1F4776"} />

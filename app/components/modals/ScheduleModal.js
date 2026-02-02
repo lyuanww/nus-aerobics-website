@@ -154,7 +154,7 @@ export default function ScheduleModal({
                       <div className="flex flex-row items-center gap-2.5">
                         <MdOutlineLocationOn size={ 24 } color={ "#1F4776" }/>
                         <p className="text-a-black text-sm md:text-base">
-                          UTown Gym Aerobics Studio
+                          YIH Dance Studio 2
                         </p>
                       </div>
                       <div className="flex flex-row items-center gap-2.5">
