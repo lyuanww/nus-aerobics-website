@@ -39,7 +39,7 @@ function sendEmail(user, selectedClass) {
             </tr>
             <tr>
               <td><strong>Location</strong></td>
-              <td>UTown Gym Aerobics Studio</td>
+              <td>YIH Dance Studio 2</td>
             </tr>
           </table>
         <br><strong>Attire</strong>
